@@ -1,0 +1,9 @@
+case .changeIsMute(let isMuted):
+            newSettings.isMuted = isMuted
+        }
+        
+        return newSettings
+        
+    }
+    
+}
